@@ -1,0 +1,22 @@
+bin/
+out/
+*.class
+*.jar
+*.log
+*.tmp
+*.bak
+*.swp
+*.zip
+*.csv
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+.externalToolBuilders/
+.idea/
+*.iml
+.vscode/
+Thumbs.db
+desktop.ini
+ehthumbs.db
+.DS_Store
+2026-3 Proyecto Final CC1 UD.pdf
